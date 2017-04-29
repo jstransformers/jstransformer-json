@@ -1,5 +1,7 @@
 # jstransformer-json
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-json.svg)](https://greenkeeper.io/)
+
 JSON support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-json/master.svg)](https://travis-ci.org/jstransformers/jstransformer-json)
