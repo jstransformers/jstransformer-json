@@ -5,7 +5,6 @@ JSON support for [JSTransformers](http://github.com/jstransformers).
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-json/master.svg)](https://travis-ci.org/jstransformers/jstransformer-json)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-json/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-json)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-json/master.svg)](http://david-dm.org/jstransformers/jstransformer-json)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-json.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-json.svg)](https://www.npmjs.org/package/jstransformer-json)
 
 ## Installation
